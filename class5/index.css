@@ -1,0 +1,39 @@
+body {
+    background-color: #CFC;
+    font-family: Georgia, cambria, serif;
+    font-size: 16px;
+    color: #00f;
+}
+
+p{
+    color: #00f;
+}
+
+ul li {
+    color: #00f;
+    font-family: Verdana, cabibri, sans-serif;
+    font-size: 16px;
+}
+
+.curso {
+    color: #F00;
+    font-family: Verdana, cabibri, sans-serif;
+    font-size: 32px;
+}
+
+b {
+    font-family: Verdana, cabibri, sans-serif;
+    font-size: 20px;
+}
+
+span{
+    color: #060;
+}
+
+h2 {
+    color: #A00;
+    font-family: Verdana, cabibri, sans-serif;
+    font-size: 24px;
+}
+
+  
