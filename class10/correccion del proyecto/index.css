@@ -1,8 +1,8 @@
 .tarjeta{
     align-items:flex-start;
-    color: darksalmon;
-    background-color: aqua;
+    color: rgb(15, 6, 3);
+    background-color: rgb(240, 35, 206);
 }
 body{
-    background-color: yellowgreen;
+    background-color: rgb(94, 135, 248);
 }
